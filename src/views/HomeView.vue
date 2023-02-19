@@ -10,7 +10,7 @@ const hide = ref(true)
 
 <template>
   <Hero />
-  <h1 class="hero-text">Kaffe Baren</h1>
+  <h1 class="hero-text">Kaffe-Baren</h1>
   <button type="button" class="btn btn-lg btn-secondary" @click="hide = !hide">Boka din kaffe</button>
   <div v-if="!hide">
     <Booking />

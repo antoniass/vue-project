@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Kaffe",
+        "price": "29",
+        "picture": "./src/assets/img/kaffe.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Latte",
+        "price": "39",
+        "picture": "./src/assets/img/latte.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Cappuccino",
+        "price": "39",
+        "picture": "./src/assets/img/cappuccino.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Caffe Mocha",
+        "price": "49",
+        "picture": "./src/assets/img/mocca.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Chai Latte",
+        "price": "42",
+        "picture": "./src/assets/img/chai.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Varm Choklad",
+        "price": "39",
+        "picture": "./src/assets/img/varmchoklad.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Islatte",
+        "price": "54",
+        "picture": "./src/assets/img/iskaffe.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Frappe",
+        "price": "59",
+        "picture": "./src/assets/img/frappe.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Iste",
+        "price": "49",
+        "picture": "./src/assets/img/iste.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Läsk",
+        "price": "29",
+        "picture": "./src/assets/img/läsk.jpg"
+    }
+]
